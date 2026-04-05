@@ -52,5 +52,9 @@ El flujo de trabajo se dividió en cinco etapas críticas para asegurar la integ
 
 ---
 ---
+**Analista:** Reinier Vargas Jardines  
+**Bootcamp:** Data Analysis Sprint 11 - Proyecto Final  
+**Contacto:** rvargas86@gmail.com
+---
 **Desarrollado por:** Reinier Vargas Jardines  
 *IT Infrastructure Specialist & Data Analyst*
